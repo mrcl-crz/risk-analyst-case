@@ -18,12 +18,12 @@ O principal entregável foi um dashboard interativo que resume os principais mé
 
 ## Principais Descobertas e Insights
 
-A análise dos dados transacionais revelou padrões de ataque claros, indo além de uma simples análise de transações individuais.
+A análise dos dados transacionais revelou padrões de compras suspeitos.
 
 ### 1. Descoberta dos dispositivos suspeitos
-O insight mais impactante foi a detecção de uma fraude altamente concentrada.
+O insight mais impactante foi a detecção de uma ação concentrada.
 
-* **17 dispositivos únicos** (menos de 1% do total) foram identificados com comportamento de alto risco.
+* **17 dispositivos únicos** (menos de 1% do total) foram identificados com comportamento suspeito.
 * Estes 17 dispositivos foram responsáveis por **120 chargebacks**.
 * Isso significa que um pequeno grupo foi responsável por **30,69% de todo o prejuízo** por fraude no dataset.
 

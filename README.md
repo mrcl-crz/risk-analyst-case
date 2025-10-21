@@ -1,6 +1,6 @@
 # Case de Análise de Risco: Detecção de Fraude Transacional
 
-Este repositório contém a resolução de um case prático focado na detecção de fraude em transações de cartão não presente (CNP).
+Este repositório contém a resolução de um case prático focado na detecção de fraude em transações.
 
 O projeto envolveu duas frentes principais:
 1.  **Análise de Dados Prática:** Análise de um dataset de transações para identificar comportamentos suspeitos e propor uma solução antifraude.
